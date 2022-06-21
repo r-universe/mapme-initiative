@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mapme.biodiversity"]
+	path = mapme.biodiversity
+	url = https://github.com/mapme-initiative/mapme.biodiversity
+	shallow = true
+	registered = true
